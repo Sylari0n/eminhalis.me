@@ -1,0 +1,29 @@
+
+.circleBigImg {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.iconMid {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+
+.projectIcon {
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+    border-radius: 15%;
+}
+
+.simpleLink {
+    text-decoration: none;
+}
