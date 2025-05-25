@@ -18,12 +18,16 @@ body {
 }
 
 .projectIcon {
-    width: 90px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
     object-fit: contain;
     border-radius: 15%;
 }
 
 .simpleLink {
-    text-decoration: none;
+    text-decoration: none !important;
+}
+
+.buttonSoftLink {
+    background-color: #f1f5f9;
 }
