@@ -9,6 +9,8 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
+    background-color: #181A1B;
+    color: #E8E6E3;
 }
 
 .iconMid {
@@ -29,5 +31,10 @@ body {
 }
 
 .buttonSoftLink {
-    background-color: #f1f5f9;
+    background-color: #25292A;
+    color: #E8E6E3;
+}
+
+.buttonSoftLink:hover {
+    color: white;
 }
